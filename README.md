@@ -1,4 +1,4 @@
-# Whatsappwebjs documentação em português
+# Whatsapp-web.js documentação em português
 Esta é uma documentação em português sobre o whatsapp-web.js e qrcode-terminal, duas bibliotecas que permitem a automação do WhatsApp para web através do Node.js. O foco deste material é ajudar iniciantes a começar a usar estas ferramentas para automatizar o envio e recebimento de mensagens, envio de imagens, vídeos e arquivos de áudio, além da manipulação de conversas e grupos.
 
 A documentação está sendo escrita utilizando a `tecnologia GPT-3.5`, um modelo de linguagem natural de última geração que permite a geração de textos coerentes e semânticos de forma autônoma, a partir de uma base de dados muito grande.
